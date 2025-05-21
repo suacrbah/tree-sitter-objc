@@ -3,7 +3,7 @@ package tree_sitter_objc_test
 import (
 	"testing"
 
-	tree_sitter_objc "github.com/tree-sitter-grammars/tree-sitter-objc/bindings/go"
+	tree_sitter_objc "github.com/suacrbah/tree-sitter-objc/v3/bindings/go"
 	tree_sitter "github.com/tree-sitter/go-tree-sitter"
 )
 
